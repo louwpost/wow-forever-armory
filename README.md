@@ -4,6 +4,10 @@ A small, shared World of Warcraft armory for friends who want to keep track of e
 
 Forever Friends displays character names, owners, factions, levels, races, classes, active specializations, professions, and links to the official Blizzard Armory. The page is designed as a guild-style home for the heroes that the group plays across Azeroth.
 
+![Forever Friends example](images/example.jpg)
+
+AI was used to built this website.
+
 ## Features
 
 - Shared roster of friends and their World of Warcraft characters
